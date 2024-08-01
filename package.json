@@ -1,0 +1,30 @@
+{
+  "name": "grasp-react",
+  "version": "1.0.0",
+  "description": "This is Grasp-React by Tarun",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarun-Das-au8/Grasp-React.git"
+  },
+  "keywords": [
+    "React",
+    "React-Practice"
+  ],
+  "author": "Tarun Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarun-Das-au8/Grasp-React/issues"
+  },
+  "homepage": "https://github.com/Tarun-Das-au8/Grasp-React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
